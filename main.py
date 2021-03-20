@@ -147,3 +147,4 @@ while EnterMove():
 input("Presiona para salir")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# hola soy mati
